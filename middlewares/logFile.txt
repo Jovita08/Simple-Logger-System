@@ -1,0 +1,8 @@
+New user Authenticated!
+Username: Jovita
+Password: Jovi123
+URL: /api/checkLoggerData/Jovita/Jovi123
+Date: 12/7/2024, 1:52:04 pm
+Method Type: POST
+Status: Authentication Successful 
+
